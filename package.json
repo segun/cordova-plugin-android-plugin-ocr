@@ -1,0 +1,17 @@
+{
+  "name": "cordova-android-ocr",
+  "version": "0.0.1",
+  "description": "Cordova Android Plugin to read text from camera source.",
+  "cordova": {
+    "id": "cordova-plugin-android-ocr",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Akintayo A. Olusegun",
+  "license": "ISC"
+}
